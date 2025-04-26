@@ -10,12 +10,12 @@ Please do not make changes to my repo. If you want to make changes please fork i
 
 * [About the project.](about.html)
 
-* [Islam home page]
+* [Islam home page](islam/index.html)
 
-* [FOREX home page]
+* [FOREX home page](forex/index.html)
 
-* [WEBDEV home page]
+* [WEBDEV home page](webdev/index.html)
 
-* [Linuxy stuff]
+* [Unixy stuff](unix/index.html)
 
 I'll add more as I learn more.
