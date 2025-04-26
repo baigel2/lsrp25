@@ -1,24 +1,21 @@
-# This is a title.
+# Adnan's LSRP 2025:
 
-## This is a subtitle.
+Welcome to my study notes for 2025. I use a number of different devices including linux machines without GUI's so I wanted some way of accessing my notes on any platform.
 
-* THis
-* is
-* a
-* bullet list.
+Also learning webdev and thought this would be a fun way to learn by doing.
 
------
+Please do not make changes to my repo. If you want to make changes please fork it instead.
 
-1. this is
-2. a
-3. numbered list.
+# Links:
 
-[this is a link to google](google.com)
+* [About the project.](about.html)
 
+* [Islam home page]
 
-[this is a link to my readme file](README.md)
+* [FOREX home page]
 
+* [WEBDEV home page]
 
------
+* [Linuxy stuff]
 
-End of page.
+I'll add more as I learn more.
